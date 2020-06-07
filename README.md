@@ -1,6 +1,6 @@
 # coronavirus-headlines
 
-This is a repository of my work and the supporting files from my upper division computer science class at CMC. 
+This is a repository of my work and the supporting files from my Machine Learning class at CMC. 
 
 Basically, names.py is a python file that works to analyze headlines related to COVID-19 and utilizes machine learning in order to build a model that will determine the news organization that it came from.
 
